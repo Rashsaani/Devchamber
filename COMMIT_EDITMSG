@@ -1,0 +1,26 @@
+Agent query: Let me walk you through each page:
+
+1. Authentication Page (/auth):
+- Split layout with login/registration form on the left
+- Hero section with education messaging on the right
+- Tabs to switch between login and registration
+
+2. Home Page (/):
+- Navigation header with EduPro branding
+- Welcome message
+- Grid of subject cards showing Mathematics and Science
+
+3. Subject Details Page (/subjects/1):
+- Detailed view of the Mathematics subject
+- List of modules/topics
+- Available quizzes section
+
+4. Quiz Page (/quizzes/1):
+- Quiz interface with questions
+- Radio button options
+- Progress tracking
+- Navigation between questions
+
+Is everything displaying correctly? Are all pages accessible and properly styled?
+
+Screenshot: https://storage.googleapis.com/screenshot-production-us-central1/15310af3-b56e-4c5d-bece-a65f896951b1/a70e2620-5687-4aac-ab55-d5ce2e4ca077.jpg
